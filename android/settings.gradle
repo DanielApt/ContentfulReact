@@ -1,0 +1,3 @@
+rootProject.name = 'ContentfulReact'
+
+include ':app'
